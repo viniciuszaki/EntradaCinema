@@ -1,0 +1,7 @@
+C:\Users\vinic\source\repos\EntradaCinema\EntradaCinema\bin\Debug\EntradaCinema.exe.config
+C:\Users\vinic\source\repos\EntradaCinema\EntradaCinema\bin\Debug\EntradaCinema.exe
+C:\Users\vinic\source\repos\EntradaCinema\EntradaCinema\bin\Debug\EntradaCinema.pdb
+C:\Users\vinic\source\repos\EntradaCinema\EntradaCinema\obj\Debug\EntradaCinema.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\EntradaCinema\EntradaCinema\obj\Debug\EntradaCinema.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\EntradaCinema\EntradaCinema\obj\Debug\EntradaCinema.exe
+C:\Users\vinic\source\repos\EntradaCinema\EntradaCinema\obj\Debug\EntradaCinema.pdb
